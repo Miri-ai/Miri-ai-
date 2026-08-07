@@ -6,7 +6,7 @@ Actualmente en formación y en búsqueda de oportunidades laborales, con foco en
 
 ## Stack
 
-Python · Pandas · SQL · Excel · Power BI · Looker Studio · Tableau · Google Colab
+Python · Pandas · SQL · Excel · Power BI · Data Studio · Tableau · Google Colab
 
 ## Proyecto destacado
 
